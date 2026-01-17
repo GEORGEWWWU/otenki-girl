@@ -1,4 +1,4 @@
-# Otenki Girl - 晴女委托下单网站
+# Otenki Girl - 100%晴天女孩
 
 ![Vue 3](https://img.shields.io/badge/Vue-3.5.26-4FC08D?style=flat-square&logo=vue.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.9.3-3178C6?style=flat-square&logo=typescript)
